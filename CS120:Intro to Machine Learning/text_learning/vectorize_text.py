@@ -31,7 +31,7 @@ word_data = []
 ### can take a long time
 ### temp_counter helps you only look at the first 200 emails in the list
 temp_counter = 0
-replaceWords = ["sara", "shackleton", "chris", "germani"]
+replaceWords = ["sara", "shackleton", "chris", "germani","sshacklensf","cgermannsf"]
 
 
 for name, from_person in [("sara", from_sara), ("chris", from_chris)]:
